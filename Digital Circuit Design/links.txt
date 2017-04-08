@@ -1,2 +1,3 @@
-http://www.eecg.toronto.edu/~jayar/pubs/brown/survey.pdf
-http://www.springer.com/cda/content/document/cda_downloaddocument/9781461435938-c2.pdf?SGWID=0-0-45-1333135-p174308376
+http://www.ece.umd.edu/class/enee759h.S2003/lectures/Lecture2.pdf
+https://goo.gl/7FF4pt
+http://www-classes.usc.edu/engr/ee-s/577bb/371.lect.15.pdf
