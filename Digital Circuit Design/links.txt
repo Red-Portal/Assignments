@@ -1,2 +1,6 @@
 http://www.cecs.uci.edu/~gajski/eecs31/slides/Digital_Design_-_Tech_Mapping_yajaCH5w.pdf
 http://si2.epfl.ch/~demichel/publications/archive/1991/ACTRSA91pg580.pdf
+
+http://icwww.epfl.ch/~demichel/graduates/theses/mailhot.pdf
+http://si2.epfl.ch/~demichel/publications/archive/1991/ACTRSA91pg580.pdf
+http://www.cecs.uci.edu/~gajski/eecs31/slides/Digital_Design_-_Tech_Mapping_yajaCH5w.pdf
